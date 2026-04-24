@@ -4,7 +4,7 @@
 
 <ul>
     <li> <h3>Age : 23</h3> </li>
-    <li> <h3>Contact : lorest.git@gmail.com</h3> </li>
+    <li> <h3>Contact : maachejawad7@gmail.com</h3> </li>
 </ul>
 
 <h2> 🐍 <u> Languages :</u> </h2>
