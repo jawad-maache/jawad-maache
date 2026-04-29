@@ -1,4 +1,4 @@
-![Avatar](https://coolreadme.xyz/api/avatar-card?user=jawad-maache&status=SHIPPING&focus=Building+open+source&theme=profile)
+![AI Tool Card](https://coolreadme.xyz/api/ai-card?tool=claude&role=contributor&user=jawad-maache&since=2020&tagline=Use%20electrecity%20to%20create%20masterclasses)
 
 <h2> 🗒️ <u> Informations :</u> </h2> 
 
@@ -7,7 +7,11 @@
     <li> <h3>Contact : maachejawad7@gmail.com</h3> </li>
 </ul>
 
-<h2> 🐍 <u> Languages :</u> </h2>
+<h2 style="display:flex; align-items:center; text-align:center;">
+  <span style="flex:1; border-bottom:1px solid #000;"></span>
+  <span style="padding:0 10px;">Languages</span>
+  <span style="flex:1; border-bottom:1px solid #000;"></span>
+</h2>
 
 <a href="https://www.java.com/" target="_blank">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
